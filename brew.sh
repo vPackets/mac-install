@@ -48,6 +48,8 @@ brew install sha3sum
 brew install graphviz
 brew install helm
 brew install bat
+brew install tmux
+brew install screen
 brew install --cask github
 brew install --cask warp
 brew install --cask hyper 
