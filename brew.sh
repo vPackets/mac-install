@@ -14,6 +14,12 @@ echo "Installing programming languages..."
 brew install python3
 brew install go
 
+# Artificial Intelligence
+echo "Installing artificial intelligence..."
+brew install llm
+brew cask install --cask lmstudio
+
+
 
 # Dev Tools
 echo "Installing development tools..."
