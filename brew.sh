@@ -24,6 +24,7 @@ brew cask install --cask lmstudio
 # Dev Tools
 echo "Installing development tools..."
 brew install iterm2
+brew install entr
 brew install docker
 brew install kubernetes-cli
 brew install minikube
