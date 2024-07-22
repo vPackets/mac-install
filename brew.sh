@@ -102,6 +102,7 @@ brew install --cask onedrive
 echo "Installing Networking tools..."
 brew install fping
 brew install hping
+brew install gping
 brew install iperf3
 brew install ipcalc
 brew install netcalc
