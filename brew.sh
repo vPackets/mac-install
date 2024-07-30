@@ -51,6 +51,7 @@ brew install gh
 brew install jq
 brew install asciinema
 brew install powershell
+brew install devtoys
 brew install sha3sum
 brew install graphviz
 brew install helm
