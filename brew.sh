@@ -59,6 +59,7 @@ brew install bat
 brew install tmux
 brew install screen
 brew install --cask github
+brew install --cask alacritty
 brew install --cask warp
 brew install --cask hyper 
 brew install --cask postman
@@ -160,6 +161,7 @@ brew install --cask latest
 brew install --cask rectangle
 brew install --cask flycut
 brew install --cask raycast
+brew install --cask stats
 
 
 # Other
