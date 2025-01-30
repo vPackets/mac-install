@@ -31,6 +31,8 @@ brew install minikube
 brew install helm
 brew install kind
 brew install git
+brew install lazygit
+brew install lazydocker
 brew install jenkins
 brew install basex
 brew install terraform
