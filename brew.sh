@@ -61,9 +61,7 @@ brew install bat
 brew install tmux
 brew install screen
 brew install --cask github
-brew install --cask alacritty
-brew install --cask warp
-brew install --cask hyper 
+brew install --cask ghostty
 brew install --cask postman
 brew install --cask visual-studio-code
 brew install --cask sublime-text
