@@ -134,7 +134,7 @@ brew install --cask zotero
 brew install --cask papers
 brew install --cask microsoft-word
 brew install --cask microsoft-powerpoint
-
+brew install --cask microsoft-excel
 
 # Video
 echo "Installing video apps..."
@@ -175,5 +175,12 @@ brew install --cask imazing
 brew install --cask 1password
 brew install --cask coconutbattery  
 brew install --cask copilot
+
+#AI
+
+echo "Installing AI apps"
+brew install --cask lm-studio
+brew install --cask claude
+brew install --cask chatgpt
 
 
