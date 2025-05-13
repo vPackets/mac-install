@@ -86,6 +86,7 @@ echo "Installing web tools..."
 brew install httpie
 brew install wget
 brew install hugo
+brew install neofetch
 brew install --cask downie
 brew install --cask firefox
 brew install --cask google-chrome
