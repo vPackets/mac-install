@@ -67,7 +67,7 @@ brew install --cask visual-studio-code
 brew install --cask sublime-text
 brew install --cask multipass
 brew install --cask gitkraken
-brew install --cask anaconda
+#brew install --cask anaconda
 brew install --cask bruno
 
 # Communication Apps
