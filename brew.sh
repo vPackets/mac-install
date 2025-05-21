@@ -116,6 +116,7 @@ brew install ipv6calc
 brew install subnetcalc
 brew install telnet
 brew install mtr
+brew install tcping
 brew install --cask transmit
 brew install --cask wireshark
 brew install --cask royal-tsx
