@@ -413,6 +413,9 @@ cask "hiddenbar"
 # Stats – system monitor in menu bar
 cask "stats"
 
+#Droppy turns your Mac's notch into a productivity powerhouse. Drop files in, stash them, drag them out anywhere. But it's grown into much more: clipboard history, menu bar manager, media controls, AI background removal, voice transcription, and a growing library of optional extensions.
+cask "iordv/tap/droppy"
+
 
 # =========================
 # Miscellaneous
