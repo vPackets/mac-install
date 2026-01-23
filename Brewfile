@@ -275,6 +275,8 @@ cask "ghostty"
 # GitHub Desktop – GUI client for GitHub
 cask "github"
 
+# Google Antigravity
+cask "antigravity"
 
 # =========================
 # Communication
@@ -286,11 +288,11 @@ cask "discord"
 # Webex – Cisco collaboration platform
 cask "webex"
 
-# Webex Meetings – Webex meeting client
-cask "webex-meetings"
-
 # WhatsApp – messaging client
 cask "whatsapp"
+
+# Slkck – messaging client
+cask "slack"
 
 
 # =========================
@@ -331,7 +333,6 @@ cask "google-drive"
 
 # Transmit – advanced SFTP/FTP client
 cask "transmit"
-
 
 # =========================
 # Networking GUIs
@@ -416,9 +417,6 @@ cask "stats"
 # =========================
 # Miscellaneous
 # =========================
-
-# Spotify – music streaming client
-cask "spotify"
 
 # Minecraft – game client
 cask "minecraft"
