@@ -1,0 +1,396 @@
+Installed Applications:
+- Spark.app
+- Synergy.app
+- UnzipOne.app
+- Visual Studio Code.app
+- dev-tools.app
+- Luminar Neo.app
+- VLC.app
+- Path Finder.app
+- PDF Squeezer.app
+- HandBrake.app
+- Zotero.app
+- Royal TSX.app
+- Sonos.app
+- Copilot.app
+- SigmaOS.app
+- Session.app
+- HP Smart.app
+- 1Password.app
+- LM Studio.app
+- Minecraft.app
+- Zoiper5.app
+- Blackmagic Disk Speed Test.app
+- Plex.app
+- Duo Desktop.app
+- Mac@Cisco Self Service.app
+- BetterDisplay.app
+- Rectangle.app
+- Google Chrome.app
+- Camtasia 2024.app
+- Bartender 5.app
+- Anki.app
+- Papers.app
+- Numbers.app
+- Dropbox.app
+- packetflix-handler.app
+- IINA.app
+- OnyX.app
+- Notion.app
+- Xcode.app
+- monday.com.app
+- PowerShell.app
+- OneDrive.app
+- Notion Calendar.app
+- Warp.app
+- Fantastical.app
+- coconutBattery.app
+- Spotify.app
+- Today.app
+- Infuse.app
+- iMovie.app
+- Inkscape.app
+- Amazon Chime.app
+- DaisyDisk.app
+- Microsoft Word.app
+- Screen Studio.app
+- WalkMe Extension.app
+- Audacity.app
+- Docker.app
+- Obsidian.app
+- Code42.app
+- Quiet Reader.app
+- Safari.app
+- Miro.app
+- Amphetamine.app
+- Arc.app
+- DevUtils.app
+- Microsoft Excel.app
+- Hyper.app
+- ChatGPT.app
+- zoom.us.app
+- Microsoft Outlook.app
+- GitHub Desktop.app
+- Transmit.app
+- Downie 4.app
+- Keynote.app
+- Wireshark.app
+- iStat Menus.app
+- PDF Reader X.app
+- GIMP.app
+- 1Password for Safari.app
+- TrainerRoad.app
+- Authy Desktop.app
+- ThousandEyes Endpoint Agent.app
+- Color Picker.app
+- Brave Browser.app
+- Pages.app
+- GarageBand.app
+- Flow.app
+- Box.app
+- iMazing.app
+- Microsoft Edge.app
+- The Unarchiver.app
+- Microsoft OneNote.app
+- Latest.app
+- iTerm.app
+- Goodnotes.app
+- GitKraken.app
+- AppCleaner.app
+- Permute 3.app
+- Firefox.app
+- Notability.app
+- Code42-AAT.app
+- Alacritty.app
+- AltTab.app
+- Alfred 5.app
+- Postman.app
+- Trello.app
+- SigmaOS 1Password Linker.app
+- Flycut.app
+- Microsoft PowerPoint.app
+- draw.io.app
+- Skitch.app
+- Notion Mail.app
+- Webex.app
+- Zwift.app
+- Slack.app
+- Prime Video.app
+- Paintbrush.app
+- Skim.app
+- Blackmagic Proxy Generator Lite.app
+- Discord.app
+- Opera.app
+- Sublime Text.app
+
+Homebrew Packages:
+- ansible
+- aom
+- aribb24
+- asciinema
+- aws-console
+- aws-shell
+- aws-vault
+- awscli
+- azure-cli
+- basex
+- bat
+- berkeley-db@5
+- brew-file
+- brotli
+- ca-certificates
+- cairo
+- certifi
+- cffi
+- cjson
+- cryptography
+- dav1d
+- docker
+- docker-completion
+- entr
+- ffmpeg
+- flac
+- fontconfig
+- fping
+- freetype
+- frei0r
+- fribidi
+- fzf
+- gd
+- gdbm
+- gdk-pixbuf
+- geoip
+- gettext
+- gh
+- giflib
+- git
+- glib
+- gmp
+- gnupg
+- gnutls
+- go
+- gpgme
+- graphite2
+- graphviz
+- gts
+- harfbuzz
+- helm
+- highway
+- hping
+- httpie
+- hugo
+- icu4c
+- imath
+- ipcalc
+- iperf3
+- ipinfo
+- iproute2mac
+- ipv6calc
+- jansson
+- jasper
+- jenkins
+- jpeg-turbo
+- jpeg-xl
+- jq
+- kind
+- kubernetes-cli
+- lame
+- leptonica
+- libarchive
+- libass
+- libassuan
+- libavif
+- libb2
+- libbluray
+- libevent
+- libgcrypt
+- libgit2
+- libgpg-error
+- libidn2
+- libkeccak
+- libksba
+- libmicrohttpd
+- libnghttp2
+- libogg
+- libpng
+- libpsl
+- librist
+- librsvg
+- libsamplerate
+- libsndfile
+- libsodium
+- libsoxr
+- libssh
+- libssh2
+- libtasn1
+- libtiff
+- libtool
+- libunibreak
+- libunistring
+- libusb
+- libuv
+- libvidstab
+- libvmaf
+- libvorbis
+- libvpx
+- libvterm
+- libx11
+- libxau
+- libxcb
+- libxdmcp
+- libxext
+- libxrender
+- libyaml
+- libzip
+- little-cms2
+- lpeg
+- lua
+- luajit
+- luv
+- lz4
+- lzlib
+- lzo
+- m4
+- mbedtls
+- minikube
+- mpdecimal
+- mpg123
+- msgpack
+- mtr
+- ncurses
+- neovim
+- netpbm
+- nettle
+- npth
+- oniguruma
+- opencore-amr
+- openexr
+- openjdk
+- openjpeg
+- openldap
+- openssl@3
+- opus
+- p11-kit
+- packer
+- pandoc
+- pango
+- pcre2
+- perl
+- pinentry
+- pixman
+- pycparser
+- python-certifi
+- python-cryptography
+- python-setuptools
+- python@3.11
+- python@3.12
+- rav1e
+- readline
+- rubberband
+- ruby
+- screen
+- sdl2
+- sha3sum
+- skhd
+- snappy
+- speex
+- sqlite
+- srt
+- subnetcalc
+- svt-av1
+- telnet
+- terraform
+- tesseract
+- tfproviderlint
+- theora
+- tldr
+- tmux
+- tree
+- tree-sitter
+- unbound
+- unibilium
+- utf8proc
+- vault
+- vault-cli
+- vim
+- vsh
+- wakeonlan
+- webp
+- wget
+- wget2
+- x264
+- x265
+- xorgproto
+- xvid
+- xz
+- yabai
+- yq
+- yt-dlp
+- zeromq
+- zimg
+- zstd
+- 1password
+- alacritty
+- alfred
+- alt-tab
+- anki
+- audacity
+- authy
+- brave-browser
+- camtasia
+- coconutbattery
+- copilot
+- daisydisk
+- deepl
+- devutils
+- discord
+- docker
+- downie
+- drawio
+- dropbox
+- fantastical
+- flycut
+- github
+- gitkraken
+- google-chrome
+- handbrake
+- hyper
+- iina
+- imazing
+- inkscape
+- istat-menus
+- iterm2
+- keybase
+- latest
+- microsoft-auto-update
+- microsoft-outlook
+- microsoft-powerpoint
+- minecraft
+- miro
+- notion
+- obsidian
+- onedrive
+- opera
+- paintbrush
+- papers
+- path-finder
+- permute
+- postman
+- powershell
+- protonmail-bridge
+- rectangle
+- sigmaos
+- skim
+- skitch
+- slack
+- spotify
+- sublime-text
+- transmit
+- visual-studio-code
+- vlc
+- warp
+- wireshark
+- wkhtmltopdf
+- zoom
+- zotero
+- zwift
