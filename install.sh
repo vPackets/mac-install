@@ -16,7 +16,7 @@ chmod +x "$SCRIPTS_DIR"/*.sh || true
 # 4) Python venv + pip requirements (latest)
 # 5) Restart services (Dock/Finder/SystemUIServer)
 
-bash "$SCRIPTS_DIR/00-macos-defaults.sh"
+bash "$SCRIPTS_DIR/00-macos-default.sh"
 bash "$SCRIPTS_DIR/10-homebrew.sh"
 bash "$SCRIPTS_DIR/20-brew-bundle.sh"
 bash "$SCRIPTS_DIR/30-python-env.sh"

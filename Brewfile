@@ -84,7 +84,7 @@ brew "azure-cli"
 # =========================
 
 # geoip – lookup geographic info from IP addresses
-brew "geoip"
+#brew "geoip"
 
 # gh – GitHub official CLI
 brew "gh"
@@ -180,7 +180,7 @@ brew "hugo"
 brew "fping"
 
 # hping – packet crafting and TCP/IP testing
-brew "hping"
+#brew "hping"
 
 # gping – ping with a graphical terminal UI
 brew "gping"
@@ -191,8 +191,7 @@ brew "iperf3"
 # ipcalc – IP subnet calculator
 brew "ipcalc"
 
-# netcalc – network address calculations
-brew "netcalc"
+
 
 # ipinfo – IP address information lookup
 brew "ipinfo"
@@ -383,9 +382,6 @@ cask "permute"
 # Productivity
 # =========================
 
-# Skitch – screenshot annotation
-cask "skitch"
-
 # Path Finder – advanced Finder replacement
 cask "path-finder"
 
@@ -398,8 +394,7 @@ cask "fantastical"
 # Alfred – launcher and productivity workflow tool
 cask "alfred"
 
-# Authy – two-factor authentication client
-cask "authy"
+
 
 # Latest – app update notifier
 cask "latest"
