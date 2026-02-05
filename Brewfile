@@ -226,6 +226,8 @@ brew "socat"
 # netcat – simple TCP/UDP networking utility
 brew "netcat"
 
+# Tailscale - VPN !
+brew "tailscale"
 
 # =========================
 # Writing / Editing
@@ -333,6 +335,12 @@ cask "google-drive"
 # Transmit – advanced SFTP/FTP client
 cask "transmit"
 
+# Boring Notch
+cask "TheBoredTeam/boring-notch/boring-notch"
+
+# Bartender
+cask "bartender"
+
 # =========================
 # Networking GUIs
 # =========================
@@ -421,6 +429,9 @@ cask "minecraft"
 
 # Paintbrush – lightweight image editor
 cask "paintbrush"
+
+# ImageOptim
+cask "imageoptim"
 
 # iMazing – iOS device management
 cask "imazing"
