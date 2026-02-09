@@ -273,6 +273,9 @@ cask "cursor"
 # Ghostty – modern GPU-accelerated terminal
 cask "ghostty"
 
+# Hyper – modern GPU-accelerated terminal
+cask "hyper"
+
 # GitHub Desktop – GUI client for GitHub
 cask "github"
 
