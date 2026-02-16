@@ -405,6 +405,8 @@ cask "fantastical"
 # Alfred – launcher and productivity workflow tool
 cask "alfred"
 
+# Blip - Send files
+cask blip
 
 
 # Latest – app update notifier
