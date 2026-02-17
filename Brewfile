@@ -412,8 +412,8 @@ cask blip
 # Latest – app update notifier
 cask "latest"
 
-# Rectangle – window snapping and management
-cask "rectangle"
+#Moom – window snapping and management
+cask "moom"
 
 # Hidden Bar – menu bar icon manager
 cask "hiddenbar"
@@ -422,7 +422,7 @@ cask "hiddenbar"
 cask "stats"
 
 #Droppy turns your Mac's notch into a productivity powerhouse. Drop files in, stash them, drag them out anywhere. But it's grown into much more: clipboard history, menu bar manager, media controls, AI background removal, voice transcription, and a growing library of optional extensions.
-cask "iordv/tap/droppy"
+#cask "iordv/tap/droppy"
 
 
 # =========================
