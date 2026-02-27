@@ -1,38 +1,100 @@
-#pip3 install -r requirements.txt
-black==23.7.0
-ciscoconfparse==1.7.24 
-docker-py==1.10.6
-emoji==2.8.0
-exabgp==4.2.21
-genie==23.7
-httpie==3.2.2 
-#m3-libxml2-python==2.6.9
-napalm==4.1.0
-nautobot==1.6.1
-ncclient==0.6.13
-netaddr==0.8.0
-netcalc==0.6.2
-networklab
-netlookup==2.0.2
-netmiko
-netutils==1.5.0
-nornir
+# -----------------------------
+# Dev workflow / quality
+# -----------------------------
+black
+ruff
+pre-commit
+pytest
+pytest-cov
+mypy
+
+# -----------------------------
+# Core utilities (data, UX, config)
+# -----------------------------
+requests
+httpx
+rich
+pyyaml
+ruamel.yaml
+ujson
+xmltodict
+python-dotenv
+pydantic
+jmespath
+tenacity
+psutil
+
+# -----------------------------
+# CLI tooling
+# -----------------------------
+typer
+
+# -----------------------------
+# SSH / CLI screen-scraping automation
+# -----------------------------
 paramiko
-psutil==5.9.5
-pyang==2.5.3
-pyats==23.7
-pylama==8.4.1
-python-netbox==0.0.24 
-pyntc==1.0.0
-pysnmp==4.4.12
-pyYAML==6.0.1 
-requests==2.31.0
-rich==13.5.2
-setuptools==68.1.2
-scapy==2.5.0
-scp==0.14.5
-textfsm==1.1.3
-ujson==5.8.0
-xmltodict==0.13.0
+scp
+netmiko
+scrapli
+textfsm
+ntc-templates
+ciscoconfparse
 
+# -----------------------------
+# Orchestration (inventory + parallel runs)
+# -----------------------------
+nornir
+nornir-netmiko
+nornir-scrapli
+nornir-napalm
 
+# -----------------------------
+# Multi-vendor abstraction layer
+# -----------------------------
+napalm
+
+# -----------------------------
+# Source of Truth / DCIM / IPAM
+# -----------------------------
+pynetbox
+nautobot
+nornir-nautobot
+
+# -----------------------------
+# NETCONF / YANG / models
+# -----------------------------
+ncclient
+pyang
+
+# -----------------------------
+# SNMP
+# -----------------------------
+pysnmp
+
+# -----------------------------
+# gNMI / gRPC (modern telemetry & OpenConfig)
+# -----------------------------
+grpcio
+protobuf
+pygnmi
+
+# -----------------------------
+# Cisco testing / parsing ecosystem
+# -----------------------------
+pyats
+genie
+
+# -----------------------------
+# Container / lab automation helpers
+# -----------------------------
+docker
+
+# -----------------------------
+# Networking / packets (useful for troubleshooting and test traffic)
+# -----------------------------
+scapy
+
+# -----------------------------
+# BGP route injection / test speaker (keep only if you use it)
+# -----------------------------
+exabgp
