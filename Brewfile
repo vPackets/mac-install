@@ -11,6 +11,12 @@ brew "python@3.12"
 # Go – required for cloud-native tools, networking utilities, and CLIs
 brew "go"
 
+# UV - Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
+
+# Pipx : Execute binaries from Python packages in isolated environments
+brew "pipx"
+
 
 # =========================
 # Core Dev / Infra Tools
