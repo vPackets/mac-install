@@ -406,8 +406,7 @@ cask "fantastical"
 cask "alfred"
 
 # Blip - Send files
-cask blip
-
+cask "blip"
 
 # Latest – app update notifier
 cask "latest"
@@ -421,9 +420,8 @@ cask "hiddenbar"
 # Stats – system monitor in menu bar
 cask "stats"
 
-#Droppy turns your Mac's notch into a productivity powerhouse. Drop files in, stash them, drag them out anywhere. But it's grown into much more: clipboard history, menu bar manager, media controls, AI background removal, voice transcription, and a growing library of optional extensions.
-#cask "iordv/tap/droppy"
-
+# Unarchiver - Open Source Unarchiver
+cask "the-unarchiver"
 
 # =========================
 # Miscellaneous
