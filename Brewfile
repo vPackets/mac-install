@@ -463,4 +463,7 @@ cask "copilot-money"
 cask "lm-studio"
 
 # ChatGPT – official OpenAI desktop client
-cask "chatgpt"
+# cask "chatgpt"
+
+# Claude - Official Anthropic Client
+cask "claude"
